@@ -1,7 +1,7 @@
 <!DOCTYPE html> 
 <html>
   <head>
-    <p>NoticiasFutboleras.com</p>
+    <p>NoticiasFutboleras.com </p>
   </head>
   <body>
     <h1>Resultados de este fin de semana</h1>
