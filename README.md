@@ -6,13 +6,13 @@
   <body>
     <h1>Resultados de este fin de semana</h1>
     <h2>La Liga EA Sports</h2>
-    <p>En la jornada 37, los resultados más importantes son los siguientes: </p>
+   <p> En la jornada 37, los resultados más importantes son los siguientes: </p>
     
-    <p>
+    <ul>
       <li>FCBarcelona 2-3 Villareal</li>
       <li>Sevilla 0-2 Real Madrid</li>
-      <p>Atletico Madrid 4-1 Real Betis</p>
-    </p>
+      <li>Atletico Madrid 4-1 Real Betis</li>
+    </ul>
     
     <h2>Premier League</h2>
     
